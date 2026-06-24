@@ -1,2 +1,3 @@
 # beginning
-its my first project
+its my first git repository
+Author - Shiwani Patil
